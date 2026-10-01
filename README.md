@@ -14,6 +14,10 @@
 
 全程使用GLM5.3,仅由我本人提供思路
 
+## 仓库地址
+
+https://github.com/Zhu555o/Barotrauma_extract
+
 ## 快速开始
 
 ```bash
